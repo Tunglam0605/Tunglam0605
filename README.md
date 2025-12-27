@@ -72,37 +72,6 @@
 
 ---
 
-## 🎬 Demo
-
-<p align="center">
-  <img src="assets/demo_mecanum.gif" width="49%" />
-  <img src="assets/demo_arm.gif" width="49%" />
-</p>
-
-<p align="center">
-  <img src="assets/demo_vision.gif" width="70%" />
-</p>
-
-Gợi ý cực nhanh: quay video robot chạy rồi convert GIF, bỏ vào thư mục assets là profile nhìn xịn lên ngay
-
----
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tunglam0605&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunglam0605&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tunglam0605&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tunglam0605&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🏆 Thành tích và hoạt động
 
